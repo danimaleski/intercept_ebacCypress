@@ -1,0 +1,22 @@
+{
+  "name": "intercept_ebaccypress",
+  "version": "1.0.0",
+  "description": "Intercept Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danimaleski/intercept_ebacCypress.git"
+  },
+  "author": "daniella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danimaleski/intercept_ebacCypress/issues"
+  },
+  "homepage": "https://github.com/danimaleski/intercept_ebacCypress#readme",
+  "devDependencies": {
+    "cypress": "^14.3.0"
+  }
+}

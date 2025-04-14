@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "categories": [
+        {
+            "_id": "657a59ef31b986f1c0a79ddb",
+            "name": "Shoes",
+            "photo": "http://lojaebac.ebaconline.art.br/lojaebac/lojaebac/shoes1_1-1705670898893.webp",
+            "createdAt": "2023-12-14T01:27:11.559Z",
+            "updatedAt": "2024-01-19T13:28:31.328Z",
+            "__v": 0
+        },
+        {
+            "_id": "657a594d31b986f1c0a79dbd",
+            "name": "Clothes",
+            "photo": "http://lojaebac.ebaconline.art.br/lojaebac/lojaebac/clothes1_1-1705670920193.webp",
+            "createdAt": "2023-12-14T01:24:29.033Z",
+            "updatedAt": "2024-01-19T13:28:50.121Z",
+            "__v": 0
+        }
+    ],
+    "totalCategory": 2
+}
